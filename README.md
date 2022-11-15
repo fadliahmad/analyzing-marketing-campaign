@@ -1,1 +1,1 @@
-# Analyzing Marketing Campaign by Datacamp 
+# Analyzing Marketing Campaign
