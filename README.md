@@ -26,3 +26,5 @@ Executive summary:
       ✔️ Marketing channel across age groups 
       ⚙️ Function for conversion rate and plotting 
       ⚖️ Personalization A/B testing
+      
+ 📒 Notes: at the end of A/B testing part, in this project we got an error. But, if we running this project on Google Collab all running well. I still can't figure it why. 
