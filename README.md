@@ -5,6 +5,7 @@ This is a marketing campaign use case analysis. The dataset used is provided by 
 In this project, I try to repeat what I have learned from the module with some changes and improvisations so this module and the story of this data can be more readable. 
 
 Executive summary: 
+
 🔧 What I do:
 
     📥 Importing package that we need. And also the dataset we want to analyze. 
