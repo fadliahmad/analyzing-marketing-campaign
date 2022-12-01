@@ -5,14 +5,17 @@ This is a marketing campaign use case analysis. The dataset used is provided by 
 In this project, I try to repeat what I have learned from the module with some changes and improvisations so this module and the story of this data can be more readable. 
 
 Executive summary: 
-🔧 What I do: 
+🔧 What I do:
+
     📥 Importing package that we need. And also the dataset we want to analyze. 
     🔍 Examining the dataset 
     ⚙️ Transform the data 
     📊 Analyzing the data 
 
 🎯 What I want to get: 
+
     There are several points that we will analyze: 
+    
       📈 Daily reach marketing 
       💵 Total of conversion rate
       🔁 Total of retention rate
