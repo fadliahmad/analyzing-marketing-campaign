@@ -8,7 +8,7 @@ Executive summary:
 
 🔧 What I do:
 
-    📥 Importing package that we need. And also the dataset we want to analyze. 
+    📥 Importing package that we need and also the dataset we want to analyze. 
     🔍 Examining the dataset 
     ⚙️ Transform the data 
     📊 Analyzing the data 
