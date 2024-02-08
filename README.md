@@ -1,14 +1,14 @@
 # Analyzing Marketing Campaign
 
-This is a marketing campaign use case analysis. The dataset used is provided by datacamp in the Analyzing Marketing Campaign with pandas module.
+This is a marketing campaign use case analysis. The dataset used is provided by Datacamp in the Analyzing Marketing Campaign with Pandas module.
 
-In this project, I try to repeat what I have learned from the module with some changes and improvisations so this module and the story of this data can be more readable. 
+In this project, I repeat what I have learned from the module with some changes and improvisations so this module and the story of this data can be more readable. 
 
 Executive summary: 
 
 🔧 What I do:
 
-    📥 Importing package that we need and also the dataset we want to analyze. 
+    📥 Importing the package we need and the dataset we want to analyze. 
     🔍 Examining the dataset 
     ⚙️ Transform the data 
     📊 Analyzing the data 
@@ -18,8 +18,8 @@ Executive summary:
     There are several points that we will analyze: 
     
       📈 Daily reach marketing 
-      💵 Total of conversion rate
-      🔁 Total of retention rate
+      💵 Total conversion rate
+      🔁 Total retention rate
       📉 Daily conversion rate
       ✔️ Comparing conversion rate by language  
       📢 Conversion by marketing channel
@@ -27,4 +27,4 @@ Executive summary:
       ⚙️ Function for conversion rate and plotting 
       ⚖️ Personalization A/B testing
       
- 📒 Notes: at the end of A/B testing part, in this project we got an error. But, if we running this project on Google Collab all running well. I still can't figure it why. 
+ 📒 Notes: at the end of the A/B testing part, in this project, we got an error. But, if we run this project on Google Collab all run well. I still can't figure out why. 
